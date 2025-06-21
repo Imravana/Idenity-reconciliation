@@ -4,7 +4,7 @@ This is a FastAPI-based backend service to solve the **Identity Reconciliation**
 
 ---
 # Clone the repo
-git clone https://github.com/your-username/identity-reconciliation.git
+git clone https://github.com/riyasinhapat1/identity-reconciliation.git
 cd identity-reconciliation
 
 # Create virtual environment
