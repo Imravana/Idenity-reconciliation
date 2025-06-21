@@ -27,3 +27,38 @@ This is a FastAPI-based backend service to solve the **Identity Reconciliation**
   "email": "riyasinhapat1@gmail.com",
   "phoneNumber": "1234567890"
 }
+
+
+
+# Clone the repo
+git clone https://github.com/your-username/identity-reconciliation.git
+cd identity-reconciliation
+
+# Create virtual environment
+python -m venv venv
+.\venv\Scripts\activate  # For Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+uvicorn main:app --reload
+
+Visit: http://127.0.0.1:8000/docs
+
+
+## Project structure
+identity-reconciliation/
+├── main.py
+├── crud.py
+├── models.py
+├── schemas.py
+├── database.py
+├── requirements.txt
+└── README.md
+
+## Author
+RIYA SINHA
+Email: riyasinhapat1@gmail.com
+
+
