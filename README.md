@@ -3,9 +3,6 @@
 This is a FastAPI-based backend service to solve the **Identity Reconciliation** problem for Zamazon.com. The service consolidates user contacts across multiple entries using unique email and phone information.
 
 ---
-# Clone the repo
-git clone https://github.com/riyasinhapat1/identity-reconciliation.git
-cd identity-reconciliation
 
 # Create virtual environment
 python -m venv venv
@@ -31,8 +28,8 @@ identity-reconciliation/
 └── README.md
 
 ## Author
-RIYA SINHA
-Email: riyasinhapat1@gmail.com
+SAKET KUMAR
+Email: sakettiwary78@gmail.com
 ---
 ##  Features
 
@@ -55,7 +52,7 @@ Email: riyasinhapat1@gmail.com
 
 ```json
 {
-  "email": "riyasinhapat1@gmail.com",
+  "email": "sakettiwary78@gmail.com",
   "phoneNumber": "1234567890"
 }
 
